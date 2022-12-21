@@ -4,7 +4,6 @@
  * @dest:char
  * @src:char
  * Return:char
- * owned by Prevail Ugah
  */
 char *_strcat(char *dest, char *src)
 {
